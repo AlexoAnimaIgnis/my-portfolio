@@ -20,7 +20,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/angellocsin.jpg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i>Angel Locsin, medium: watercolor</i></p>
                 </div>
               </div>
             </div>
@@ -31,7 +31,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/nana.jpg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i>Mobile Legend's Nana, medium: watercolor</i></p>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/jet.jpg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i>My love, medium: watercolor</i></p>
                 </div>
               </div>
             </div>
@@ -53,7 +53,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/joker.jpeg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i>Heath Ledger's Joker, medium: watercolor</i></p>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/drstrange.jpeg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i> Marvel's Dr. Strange, medium: watercolor </i></p>
                 </div>
               </div>
             </div>
@@ -75,7 +75,7 @@ export default class Art extends React.Component {
                   <a className="light" href="img/wonderwoman.jpg"><img src="img/gallery/icon.png" alt="" /></a>
                 </div>
                 <div className="g_item_text">
-                  <p>medium: watercolor</p>
+                  <p><i>DC's Wonderwoman, medium: watercolor </i></p>
                 </div>
               </div>
             </div>
