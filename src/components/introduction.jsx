@@ -15,7 +15,7 @@ export default class Introduction extends React.Component {
                     <h6>Hey! I am</h6>
                     <h3>Alexo Ballester</h3>
                     <h4>Java Developer/Full Stack Engineer</h4>
-                    <p>Object-oriented Programming, Web Development, Data Structures and Algorithms, Java SE, Spring Framework, Spring Data JPA, Spring Security, Angular 7, ReactJS, Node.js, TypeScript, HTML/CSS</p>
+                    <p>Object-oriented Programming, Web Development, Data Structures and Algorithms, Java SE, Spring Boot, Spring Data JPA, Angular 7, ReactJS, Node.js, TypeScript, MyBatis, HTML/CSS</p>
                     <ul className="list basic_info">
                       <li><a href=""><i className="lnr lnr-calendar-full" /></a> 23rd January, 1990 </li>
                       <li><a href=""> <i className="lnr lnr-phone-handset" /></a>  (+63) 916 587 7218 </li>
