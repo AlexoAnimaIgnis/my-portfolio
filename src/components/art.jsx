@@ -8,7 +8,7 @@ export default class Art extends React.Component {
         <div className="container">
           <div className="main_title">
             <h2>I also do artworks!</h2>
-            <p>For more of my artworks, please follow my instagram account @alexowabisabi.</p>
+            <p>For more of my artworks, please follow my instagram account <a href="https://www.instagram.com/alexowabisabi/">@alexowabisabi</a>.</p>
           </div>
         </div>
         <div className="container">
