@@ -25,7 +25,7 @@ export default class Introduction extends React.Component {
                     <ul className="list personal_social">
                       <li><a href="https://www.instagram.com/alexowabisabi/"> <i className="fa fa-instagram" /> </a> </li>
                       <li><a href="https://twitter.com/AlexoIgnis"> <i className="fa fa-twitter" /> </a> </li>
-                      <li><a href="https://t.co/cc1AXYdfiC?amp=1"> <i className="fa fa-linkedin" /> </a> </li>
+                      <li><a href="https://www.linkedin.com/in/alexanderballester"> <i className="fa fa-linkedin" /> </a> </li>
                       <li><a href="https://github.com/AlexoAnimaIgnis"> <i className="fa fa-github" /> </a> </li>
                     </ul>
                   </div>
